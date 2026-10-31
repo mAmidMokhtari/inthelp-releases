@@ -23,7 +23,7 @@ Meeting Copilot listens to your call (Zoom, Google Meet, Microsoft Teams, Skype,
 - **Your references.** Add PDF, Word, text or Markdown files. Only the passages that matter for each question are used, so a large library stays fast.
 - **Private by design.** Speech recognition and suggestions run on your computer. Your audio and your documents are never uploaded.
 - **Stays out of the way.** A compact window that stays on top of your call, with adjustable transparency.
-- **Automatic updates.** New versions install with one click from inside the app.
+- **Automatic updates.** On Windows and Linux, new versions install with one click from inside the app. On a Mac, the app tells you when a new version is ready to download.
 
 ## Download
 
